@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\GB task 1\bin\Debug\net6.0\GB task 1.exe
+C:\Users\DELL\Desktop\GB task 1\bin\Debug\net6.0\GB task 1.deps.json
+C:\Users\DELL\Desktop\GB task 1\bin\Debug\net6.0\GB task 1.runtimeconfig.json
+C:\Users\DELL\Desktop\GB task 1\bin\Debug\net6.0\GB task 1.dll
+C:\Users\DELL\Desktop\GB task 1\bin\Debug\net6.0\GB task 1.pdb
+C:\Users\DELL\Desktop\GB task 1\obj\Debug\net6.0\GB task 1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\GB task 1\obj\Debug\net6.0\GB task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\GB task 1\obj\Debug\net6.0\GB task 1.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\GB task 1\obj\Debug\net6.0\GB task 1.AssemblyInfo.cs
+C:\Users\DELL\Desktop\GB task 1\obj\Debug\net6.0\GB task 1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GB task 1\obj\Debug\net6.0\GB task 1.dll
+C:\Users\DELL\Desktop\GB task 1\obj\Debug\net6.0\refint\GB task 1.dll
+C:\Users\DELL\Desktop\GB task 1\obj\Debug\net6.0\GB task 1.pdb
+C:\Users\DELL\Desktop\GB task 1\obj\Debug\net6.0\GB task 1.genruntimeconfig.cache
+C:\Users\DELL\Desktop\GB task 1\obj\Debug\net6.0\ref\GB task 1.dll
